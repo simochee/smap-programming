@@ -2,6 +2,6 @@
 
 ## アクセス
 
-ここで公開しているデータには次のURLでアクセスできます。
+SMAPで学習した際のデータは次のURLからアクセスできます。
 
 [https://github.com/simochee/smap-programming](https://github.com/simochee/smap-programming)
