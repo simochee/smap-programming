@@ -4,10 +4,11 @@ int main(void) {
 	
 	char name[32];
 	
-	printf("名前：");
+	printf("なにが楽しいですか?\n");
 	
 	scanf("%s", name);
 	
-	printf("ようこそ、%sさん！\n", name);
+	printf("わたしは%sが楽しいです！\n", name);
+	
 	return 0;
 }
